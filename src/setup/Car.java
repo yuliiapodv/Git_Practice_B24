@@ -2,11 +2,12 @@ package setup;
 
 public class Car {
 
-    // this a car class from master branch
+    // this is our car from james branch
 
-    //we will have conflict
+    //text
 
-    // because there is different text in different branches for car
+    //text
 
+    //more text
 
 }
